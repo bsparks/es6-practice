@@ -1,0 +1,19 @@
+{
+  "name": "six",
+  "version": "1.0.0",
+  "description": "testing es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sample",
+    "javscript"
+  ],
+  "author": "Ben Sparks",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-babel": "^5.1.0"
+  }
+}
